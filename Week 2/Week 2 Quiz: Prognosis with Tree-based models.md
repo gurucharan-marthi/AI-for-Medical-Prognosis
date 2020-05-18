@@ -3,6 +3,7 @@
 ### Notice that I only list correct options.
 
 1. Which decision boundary corresponds to the following decision tree? In the options, red indicates high risk, blue indicates low risk.
+
 [**Click here for the Image**](https://github.com/mk-gurucharan/AI-for-Medical-Diagnosis/blob/master/Week%201/Qn5.JPG)
 
 Correct!
