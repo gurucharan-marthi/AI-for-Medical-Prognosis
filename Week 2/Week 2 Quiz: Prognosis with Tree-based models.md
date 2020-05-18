@@ -4,7 +4,7 @@
 
 1. Which decision boundary corresponds to the following decision tree? In the options, red indicates high risk, blue indicates low risk.
 
-[**Click here for the Image**](https://github.com/mk-gurucharan/AI-for-Medical-Diagnosis/blob/master/Week%201/Qn5.JPG)
+- [**Click here for the Image**](https://github.com/mk-gurucharan/AI-for-Medical-Prognosis/blob/master/Week%202/Qn1.JPG)
 
 Correct!
 One way to approach this is to work your way back up from the leaves to see the regions that are classified as high risk. Doing this, we see that one high risk area is where x > 5 and y > 3, and where x < 5 and y > 8. This corresponds to the two rectangles shown here.
